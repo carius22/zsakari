@@ -1,0 +1,75 @@
+body {
+    background-image:url("kep/fenyek.jpg");
+	background-size: 25%;
+	background-repeat: repeat;
+}
+.cim {
+	color: white;
+	text-align: center;
+	text-decoration: overline underline;	
+}
+.tabok {
+	color: white;
+	border: 1px white solid;
+	border-radius: 15px;
+	text-align: center;
+	padding: 2px;
+	background-color: rgba(92, 92, 92, 0);
+	backdrop-filter: blur(8px);
+}
+
+.btn {
+	background-color: rgba(255, 0, 0, 0);
+	border: none;
+	color: rgb(255, 255, 255);
+	padding: 16px 32px;
+	text-align: center;
+	font-size: 16px;
+	margin: 4px 2px;
+	transition: 0.3s;
+}
+.btn:hover {
+	background-color: #0000002d;
+	color: rgb(255, 255, 255);
+}
+a {
+  text-decoration: none;
+}
+.fogyatékos {
+  color: rgb(255, 255, 97);
+}
+.gaming {
+	color: rgb(95, 169, 253);
+}
+.animes {color:rgb(255, 122, 226);}
+.idezes {color: rgb(94, 177, 255);}
+.block {
+	padding: 10px;
+	color:white;
+	border: 0px white solid ;
+	border-radius: 15px;
+	padding: 10px;
+	text-align: center;
+	float: left;
+	background-color: rgba(109, 109, 109, 0.096);
+	backdrop-filter: blur(8px);
+	width: 430px;
+	box-sizing: border-box;
+	margin: 5px;
+}
+.csgo {color: rgb(255, 255, 122);}
+.lol {color:rgb(35, 75, 255)}
+.gta5 {color:rgb(63, 224, 48)}
+.mtasa {color: orange;}
+.minecraft {color:rgb(93, 255, 79)}
+.amongus {color:rgb(255, 53, 53)}
+
+.bordi {}
+.dc {
+	width: 75px;
+	height: 50px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+}
